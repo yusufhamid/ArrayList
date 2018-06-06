@@ -1,0 +1,11 @@
+C:\Users\yusuf\Desktop\Datastructure-assign\ArrayList\ArrayList\bin\Debug\netcoreapp2.0\ArrayList.deps.json
+C:\Users\yusuf\Desktop\Datastructure-assign\ArrayList\ArrayList\bin\Debug\netcoreapp2.0\ArrayList.runtimeconfig.json
+C:\Users\yusuf\Desktop\Datastructure-assign\ArrayList\ArrayList\bin\Debug\netcoreapp2.0\ArrayList.runtimeconfig.dev.json
+C:\Users\yusuf\Desktop\Datastructure-assign\ArrayList\ArrayList\bin\Debug\netcoreapp2.0\ArrayList.dll
+C:\Users\yusuf\Desktop\Datastructure-assign\ArrayList\ArrayList\bin\Debug\netcoreapp2.0\ArrayList.pdb
+C:\Users\yusuf\Desktop\Datastructure-assign\ArrayList\ArrayList\obj\Debug\netcoreapp2.0\ArrayList.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\Datastructure-assign\ArrayList\ArrayList\obj\Debug\netcoreapp2.0\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\Datastructure-assign\ArrayList\ArrayList\obj\Debug\netcoreapp2.0\ArrayList.AssemblyInfoInputs.cache
+C:\Users\yusuf\Desktop\Datastructure-assign\ArrayList\ArrayList\obj\Debug\netcoreapp2.0\ArrayList.AssemblyInfo.cs
+C:\Users\yusuf\Desktop\Datastructure-assign\ArrayList\ArrayList\obj\Debug\netcoreapp2.0\ArrayList.dll
+C:\Users\yusuf\Desktop\Datastructure-assign\ArrayList\ArrayList\obj\Debug\netcoreapp2.0\ArrayList.pdb
